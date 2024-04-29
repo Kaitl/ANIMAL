@@ -1,0 +1,39 @@
+body{
+    font-family:"Jersey 15", sans-serif;
+    font-weight:400px;
+    font-style: normal;
+    background: rgb(214, 234, 255);
+}
+.header_div{
+    background:white;
+    color:rgb(27, 0, 133);
+}
+.header_div p{
+    font-family: "Jersey 25", sans-serif;
+    font-weight:400px;
+    font-style:normal;
+    color:rgb(0, 104, 195);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight:bold;
+}
+.main_div button{
+    font-family:"Jersey 20", sans-serif;
+    font-weight:400px;
+    font-style:normal;
+    margin-top:30px;
+    width:130px;
+    font-weight:bolder;
+    letter-spacing:3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color:rgb(171, 193, 202);
+    bottom: 0;
+    width:100%;
+    font-size:15px;
+    background-color:rgb(214, 235, 255);
+    line-height: 3;
+    text-align:center;
+    text-shadow: 5px 5px 5px rgb(171, 185, 197);
+}
